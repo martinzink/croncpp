@@ -1,4 +1,4 @@
-#include "catch.hpp"
+#include "catch2/catch.hpp"
 #include "croncpp.h"
 
 #define ARE_EQUAL(x, y)          REQUIRE(x == y)
